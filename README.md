@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishat Adamu</h1>
-<h3 align="center">Am Frontend & Back Developer</h3>
+<h3 align="center">Am a Frontend & Back Developer</h3>
 
 - 🔭 I’m currently working on **Kyeston Group Nigeria Limited**
 
